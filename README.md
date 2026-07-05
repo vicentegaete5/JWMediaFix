@@ -11,7 +11,13 @@ Also, JW Library always opens its secondary window on the same monitor, regardle
 ## The Fix
 **JWMediaFix** is an AutoHotkey script that automatically moves JW Library's media window to the monitor the user selects and keeps it maximized there, showing persistently, and making it possible to show other programs on the media monitor with no need to re-focus JW Library's media window.
 
+---
+
 ## Usage
+
+In JW Library, go to Settings and enable Show media on second monitor.
+In Windows Taskbar settings, set the taskbar to show only on the main/primary display, so it doesn't overlap the media window on the secondary monitor.
+
 ### First run
 
 Place `JWMediaFix.exe` anywhere and run it. The program automatically picks your first non-primary monitor as the media monitor.
@@ -60,6 +66,8 @@ Here is why it happens: this program is built with AutoHotkey, a scripting tool 
 2. Compile it yourself using AutoHotkey v2 (see Compiling section below) — the resulting `.exe` will have the same behavior
 
 To allow the program in your antivirus, add an exception for the `.exe` file. The exact steps depend on your antivirus software.
+
+If you see a blue "Windows protected your device" screen (Windows SmartScreen) when running the exe, click More info, then click Run anyway.
 
 ## Compiling from source
 
