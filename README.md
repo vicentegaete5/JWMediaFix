@@ -16,6 +16,7 @@ Also, JW Library always opens its secondary window on the same monitor, regardle
 ## Usage
 
 In JW Library, go to Settings and enable Show media on second monitor.
+
 In Windows Taskbar settings, set the taskbar to show only on the main/primary display, so it doesn't overlap the media window on the secondary monitor.
 
 ### First run
