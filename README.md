@@ -32,6 +32,8 @@ is stored in the Windows registry under `HKCU\Software\JWMediaWindowFix`.
 
 Right-click the tray icon and check AutoStart to have JW Library and the fix start automatically when you log in to Windows.
 
+---
+
 ### JW Library Startup focus
 
 JW Library has a bug where it can crash if it does not have window focus during the first few seconds after it opens. To work around this, on a fresh launch the script briefly gives JW Library main window focus while it waits for the media window to appear.
