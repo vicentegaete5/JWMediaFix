@@ -85,7 +85,7 @@ Run Ahk2Exe directly, pointing it at the script (installed by default under `C:\
 
 ## Donations
 
-This program is free and will remain free. If it has been useful to you, a donation is appreciated but never required.
+This program is free and will remain free. If it has been useful to you, a donation is appreciated but never required. [Github Sponsors](https://github.com/sponsors/vicentegaete5)
 
 
 ## Disclaimer
