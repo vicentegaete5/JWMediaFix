@@ -1,12 +1,12 @@
 # JWMediaFix
-Maintains JW Library's media window maximized on your chosen secondary monitor.
 
----
+For brothers handling audio/video at the Kingdom Hall
 
-## The problem
-On multi-monitor setups, JW Library's secondary window for media presentation opens in an exclusive fullscreen state. Exclusive fullscreen windows minimize the instant any other window on that display gets focus, interrupting presentations and causing distractions (e.g., Zoom Workplace hijacking the secondary monitor, or trying to move any program onto the media monitor).
+If you're on A/V duty, you've probably run into this: JW Library's media window minimizes or disappears right in the middle of a talk, when trying to share your screen with Zoom, or the year text flashes distractingly.
 
-Also, JW Library always opens its secondary window on the same monitor, regardless of whether the user moved the media window to a different monitor in a previous session.
+The media projection window resets to the same monitor every time the computer powers on, instead of remembering where you put it.
+
+**JWMediaFix** solves this quietly in the background: it keeps the media window locked and maximized on whichever monitor you pick, remembers that choice, and lets you work in other windows on the audience screen without it dropping out. Optional autostart, lives in the tray.
 
 ## The Fix
 **JWMediaFix** is an AutoHotkey script that automatically moves JW Library's media window to the monitor the user selects and keeps it maximized there, showing persistently, and making it possible to show other programs on the media monitor with no need to re-focus JW Library's media window.
