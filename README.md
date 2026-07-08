@@ -43,7 +43,7 @@ Right-click the tray icon and check AutoStart to have JW Library and the fix sta
 
 ### JW Library Startup focus
 
-JW Library has a bug where it can crash if it does not have window focus during the first few seconds after it opens. To work around this, on a fresh launch the script briefly gives JW Library main window focus while it waits for the media window to appear.
+JW Library has a bug where it can crash or don't create the media window if it does not have window focus during the first few seconds after it opens. To work around this, on app launch the script briefly gives JW Library main window focus while it waits for the media window to appear.
 
 This workaround can still fail if focus is repeatedly pulled away from JW Library while it's still initializing. If you see JW Library crash on launch, try letting it sit focused and undisturbed for a few seconds after opening before switching to another window.
 
