@@ -1,4 +1,4 @@
-# JWMediaFix
+# JWMediaFix [![badge](https://shieldcn.dev/badge/Donate-212830.svg?variant=secondary&logo=ri%3APiHeartBold&logoColor=ea4aaa)](https://github.com/sponsors/vicentegaete5)
 
 For brothers handling audio/video at the Kingdom Hall
 
@@ -94,7 +94,7 @@ Run Ahk2Exe directly, pointing it at the script (installed by default under `C:\
 
 ## Donations
 
-This program is free and will remain free. If it has been useful to you, a donation is appreciated but never required. [Github Sponsors](https://github.com/sponsors/vicentegaete5)
+This program is free and will remain free. If it has been useful to you, a donation is appreciated but never required.
 
 
 ## Disclaimer
