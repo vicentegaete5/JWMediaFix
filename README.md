@@ -1,4 +1,4 @@
-# JWMediaFix [![badge](https://shieldcn.dev/badge/Donate-212830.svg?variant=secondary&logo=ri%3APiHeartBold&logoColor=ea4aaa)](https://github.com/sponsors/vicentegaete5)
+# JWMediaFix‎‎‎‎‎ [![badge](https://shieldcn.dev/badge/Sponsor-212830.svg?variant=secondary&logo=ri%3APiHeartBold&logoColor=ea4aaa)](https://github.com/sponsors/vicentegaete5)
 
 For brothers handling audio/video at the Kingdom Hall
 
