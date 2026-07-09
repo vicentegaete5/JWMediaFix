@@ -6,7 +6,7 @@ If you're on A/V duty, you've probably run into this: JW Library's media window 
 
 The media projection window resets to the same monitor every time the computer powers on, instead of remembering where you put it.
 
-**JWMediaFix** solves this quietly in the background: it keeps the media window locked and maximized on whichever monitor you pick, remembers that choice, and lets you work in other windows on the audience screen without it dropping out. Optional autostart, lives in the tray.
+**JWMediaFix** solves this quietly in the background: it keeps the media window locked and maximized on whichever monitor you pick, remembers that choice, and lets you work in other windows on the audience screen without it dropping out.
 
 ## The Fix
 **JWMediaFix** is an AutoHotkey script that automatically moves JW Library's media window to the monitor the user selects and keeps it maximized there, showing persistently, and making it possible to show other programs on the media monitor with no need to re-focus JW Library's media window.
