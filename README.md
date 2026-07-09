@@ -31,10 +31,6 @@ Left-click the tray icon or press Ctrl+Alt+J ─ A pulsing purple overlay appear
 
 Whenever JW Library opens, the program detects the media window, fixes it, and moves it to your selected monitor. If the window gets minimized or windowed later, it is maximized automatically.
 
-### Media Monitor
-
-is stored in the Windows registry under `HKCU\Software\JWMediaWindowFix`.
-
 ### AutoStart
 
 Right-click the tray icon and check AutoStart to have JW Library and the fix start automatically when you log in to Windows.
